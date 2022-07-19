@@ -21,7 +21,7 @@ VORPInventory
 ~ You will need to add the `weedseed` and `wateringcan` items to a store or other type of vendor.  
 ~ Right-click on the seed to use.  
 ~ Right-click on watering can to water the plant.   
-~ You can set the plant timer in line **145** of the `client.lua` where it says `['timer'] = 500`  
+~ You can set the grow timer in line **145** of the `client.lua` where it says `['timer'] = 500`  
 ~ Harvest plants when the time is up.   
 ~ The finished product can be used in crafting scripts. *Example: Crafting joints or blunts that can be used in Metabolism scripts or just for RP. You provide the rolling papers.*
 ~ I removed the designated planting zones since I figured some people might want to have indoor or back alley grow-ops. XD You can plant weed anywhere! 
