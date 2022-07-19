@@ -18,7 +18,7 @@ VORPInventory
 
 **Use:**
 
-~ You will need to add the `weedseed` and `watering can` items to a store or other type of vendor.  
+~ You will need to add the `weedseed` and `wateringcan` items to a store or other type of vendor.  
 ~ Right-click on the seed to use.  
 ~ Right-click on watering can to water the plant.   
 ~ You can set the plant timer in line **145** of the `client.lua` where it says `['timer'] = 500`  
