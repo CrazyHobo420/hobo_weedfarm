@@ -1,5 +1,5 @@
 # hobo_weed
-A simple weed farm with custom props included. Works for VORP. 
+A simple weed farm with custom props included. Works for VORP. Preview here: https://youtu.be/VofTQky3rzs
 
 **Dependencies:**
 
