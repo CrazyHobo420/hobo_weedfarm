@@ -8,8 +8,8 @@ VORPInventory
 
 **Installation:**
 
-~ Add **prop_weed** to your resources folder  
-~ Add **hobo_weed** to your resources folder     
+~ Add the **prop_weed** folder to your resources folder  
+~ Add the **hobo_weed** folder to your resources folder     
 ~ `ensure prop_weed` in your server.cfg   
 ~ `ensure hobo_weed` in your server.cfg     
 ~ Install **weed.sql** in your DB   
