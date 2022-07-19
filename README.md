@@ -28,4 +28,8 @@ VORPInventory
 
 I will add more features as I learn more of this stuff. Have fun with this, in the meantime. 
 
-All credit for the original script goes to PokeSerGG and RexShack for their initial commits and edits. I simply adapted it for weed. Feel free to fork it and adapt it to your liking. Cheers!  
+All credit for the original script goes to PokeSerGG and RexShack for their initial commits and edits. I simply adapted it for weed. 
+
+And a HUGE thanks to Hobbs for the weed props! 
+
+Feel free to fork this and adapt it to your liking. Cheers!  
